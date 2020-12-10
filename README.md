@@ -19,7 +19,7 @@ There is a very simple `config.json` file with the following options:
 In the directory, just execute the `export.py` Python file:
 
 ```shell
-$ python execute.py
+$ python export.py
 ```
 
 ## Limitations
